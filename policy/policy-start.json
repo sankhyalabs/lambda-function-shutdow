@@ -15,6 +15,7 @@
             "Action": [
                 "ec2:Start*",
                 "ec2:Stop*",
+                "ec2:Reboot*",
                 "ec2:DescribeInstances"
             ],
             "Resource": "*"
